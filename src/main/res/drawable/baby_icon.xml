@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Circle face -->
+    <path
+        android:fillColor="#FFB0B0"
+        android:pathData="M24,2 C35,2 42,9 42,20 C42,31 35,38 24,38 C13,38 6,31 6,20 C6,9 13,2 24,2 Z"/>
+
+    <!-- Eyes -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M17,15 C18,15 19,16 19,17 C19,18 18,19 17,19 C16,19 15,18 15,17 C15,16 16,15 17,15 Z M31,15 C32,15 33,16 33,17 C33,18 32,19 31,19 C30,19 29,18 29,17 C29,16 30,15 31,15 Z"/>
+
+    <!-- Smile -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M17,22 C20,25 28,25 31,22"/>
+</vector>

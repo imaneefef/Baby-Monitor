@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SuiviBebe</string>
+    <string name="baby_monitor">👶 Baby Monitor</string>
+    <string name="temperature">🌡️ Temperature</string>
+    <string name="humidity">💧 Humidity</string>
+    <string name="sound_level">🎤 Sound Level</string>
+    <string name="baby_crying">🚨 Baby is Crying!</string>
+</resources>

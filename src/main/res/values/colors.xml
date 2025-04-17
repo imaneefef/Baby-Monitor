@@ -1,0 +1,14 @@
+<resources>
+    <!-- Primary Color (Main color of your app) -->
+    <color name="primary">#6200EE</color> <!-- Example Purple -->
+    <color name="primaryVariant">#3700B3</color> <!-- Darker Purple -->
+
+    <!-- Text color for primary elements -->
+    <color name="textPrimary">#FFFFFF</color> <!-- White text -->
+
+    <!-- Background color -->
+    <color name="background">#FCE4EC</color> <!-- Light Pink -->
+
+    <!-- Optional secondary color -->
+    <color name="secondary">#03DAC5</color> <!-- Teal -->
+</resources>
